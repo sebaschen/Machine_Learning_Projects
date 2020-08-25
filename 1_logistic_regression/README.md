@@ -21,3 +21,12 @@ It's the classic Titanic Kaggle competition. We're going to use
 | embarked  | Port of Embarkation  |C = Cherbourg, Q = Queenstown, S = Southampton |
 
 ### Data Visualization
+
+
+
+<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/sex_survived.png" alt="drawing" width="500"/>
+
+
+```
+Most of the men died, while the women survived.
+```
