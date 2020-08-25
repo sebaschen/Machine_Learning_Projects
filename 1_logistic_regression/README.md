@@ -20,13 +20,32 @@ It's the classic Titanic Kaggle competition. We're going to use
 | cabin  | Cabin number  ||
 | embarked  | Port of Embarkation  |C = Cherbourg, Q = Queenstown, S = Southampton |
 
-### Data Visualization
+## Data Visualization
+
+### Original Data Heatmap
+<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/original_data_heatmap.png" alt="drawing" width="500"/>
+
+### Age Distribution
+<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/original_data_age_distribution.png" alt="drawing" width="500"/>
 
 
+### Ticket Fare
+<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/Ticket_fare.png" alt="drawing" width="500"/>
 
+
+### Pclass Rate
+<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/Pclass_rate.png" alt="drawing" width="500"/>
+
+
+### Gender
 <img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/sex_survived.png" alt="drawing" width="500"/>
-
 
 ```
 Most of the men died, while the women survived.
 ```
+
+## Result 
+| Result:   | Accuracy |
+| ------------- | ------------- |
+| LogisticRegression  | 0.76555 |
+| RandomForestClassifier  | 0.78468 |
