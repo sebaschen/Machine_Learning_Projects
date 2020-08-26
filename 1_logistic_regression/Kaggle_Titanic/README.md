@@ -3,7 +3,11 @@
 
 ## Summary
 
-It's the classic Titanic Kaggle competition. We're going to use
+It's the classic Titanic Kaggle competition. We're going to use two methodologies to deal with the problem:
+
+1. Logistic Regression: Use logistic regression to find a line that can separate the data to two parts.
+2. Random Forest Classifier: Random forest is a versatile machine learning method capable of performing both regression and classification tasks. 
+It is also used for dimentionality reduction, treats missing values, outlier values. It is a type of ensemble learning method, where a group of weak models combine to form a powerful model
 
 ### Variables &Features of the csv file
 
