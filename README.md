@@ -1,4 +1,4 @@
-# Basic Machine Learning Concepts and Projects Practice
+# Machine Learning Concepts and Projects
 
 ## Review of the basic concepts of machine learning
 
