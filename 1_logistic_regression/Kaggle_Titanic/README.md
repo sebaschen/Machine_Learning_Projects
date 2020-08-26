@@ -23,22 +23,22 @@ It's the classic Titanic Kaggle competition. We're going to use
 ## Data Visualization
 
 ### Original Data Heatmap
-<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/original_data_heatmap.png" alt="drawing" width="500"/>
+<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/Kaggle_Titanic/original_data_heatmap.png" alt="drawing" width="500"/>
 
 ### Age Distribution
-<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/original_data_age_distribution.png" alt="drawing" width="500"/>
+<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/Kaggle_Titanic/original_data_age_distribution.png" alt="drawing" width="500"/>
 
 
 ### Ticket Fare
-<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/Ticket_fare.png" alt="drawing" width="500"/>
+<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/Kaggle_Titanic/Ticket_fare.png" alt="drawing" width="500"/>
 
 
 ### Pclass Rate
-<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/Pclass_rate.png" alt="drawing" width="500"/>
+<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/Kaggle_Titanic/Pclass_rate.png" alt="drawing" width="500"/>
 
 
 ### Gender
-<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/sex_survived.png" alt="drawing" width="500"/>
+<img src="https://github.com/sebaschen/basic_machine_learning/blob/master/1_logistic_regression/Kaggle_Titanic/sex_survived.png" alt="drawing" width="500"/>
 
 ```
 Most of the men died, while the women survived.
