@@ -3,7 +3,7 @@
 ## Review of the basic concepts of machine learning
 
 * [Logistic Regression](https://github.com/sebaschen/Machine_Learning_Projects/tree/master/1_logistic_regression) 
-* [Linear Regression](https://github.com/sebaschen/Machine_Learning_Projects/tree/master/support_vector_machine)
+* [Linear Regression](https://github.com/sebaschen/Machine_Learning_Projects/tree/master/linear_regression)
 * [Support Vector Machines](https://github.com/sebaschen/Machine_Learning_Projects/tree/master/support_vector_machine)
 * Cross Validation and Bias-Variance Trade-off 
 * K-Nearest Neighbors
