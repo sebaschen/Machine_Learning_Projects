@@ -3,7 +3,7 @@
 
 ## Summary
 
-It's the classic Titanic Kaggle competition. We're going to use two methodologies to deal with the problem:
+It's the classic Titanic Kaggle competition. We're going to use two methodologies to deal with the problem of `who will survive in the Titanic tragedy story`:
 
 1. Logistic Regression: Use logistic regression to find a line that can separate the data to two parts.
 2. Random Forest Classifier: Random forest is a versatile machine learning method capable of performing both regression and classification tasks. 
